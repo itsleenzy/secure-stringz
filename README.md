@@ -18,7 +18,7 @@ Generate secure, random passwords in seconds and see if they’re weak, medium, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Secure-Stringz.git
+[git clone https://github.com/yourusername/Secure-Stringz.git](https://github.com/itsleenzy/secure‑stringz.git)
 
 ```
 2. Navigate to the folder:
