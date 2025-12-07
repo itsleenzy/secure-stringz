@@ -22,12 +22,18 @@ git clone https://github.com/yourusername/Secure-Stringz.git
 
 ```
 2. Navigate to the folder:
+
+   ```bash
    cd Secure-Stringz
+   ```
 
 3. Run the script:
-   python password_generator.py
 
-4. Enter your desired password length and see your password + strength instantly!
+   ``` bash
+   python password_generator.py
+   ```
+
+5. Enter your desired password length and see your password + strength instantly!
 
 ## Example: 
 Enter the length of the password you want: 16
